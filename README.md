@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?logo=Amazon EC2">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
   </P>
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60" /></div>
 <!--
 **shinStude/shinStude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
