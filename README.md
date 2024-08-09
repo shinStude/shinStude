@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring">
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
 
-<img src="https://img.shields.io/badge/Intellij-00000?logo=Oracle">
+<img src="https://img.shields.io/badge/Intellij-000000?logo=Intellij">
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
