@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Intellij-000000?logo=Intellij">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch">
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" /></div>
-  <a href="https://velog.io/@soyeon207"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@soyeon207"/>
+  <a href="https://godwebstory.tistory.com"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://godwebstory.tistory.com"/>
   </P>
 
 <!--
