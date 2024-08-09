@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://capsule-render.vercel.app/api?section=footer?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text= 안녕하세요%20웹개발자%20신재민입니다.)
+![header](https://capsule-render.vercel.app/api?section=footer?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text= 안녕하세요%20웹개발자%20신재민입니다.)
 <!--
 **shinStude/shinStude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
