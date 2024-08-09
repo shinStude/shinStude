@@ -13,13 +13,15 @@
 <img src="https://img.shields.io/badge/Intellij-000000?logo=Intellij">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch">
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" /></div>
-  <p>  
-    ### 🫡저의 블로그에 놀러오세요
-    <a href="https://godwebstory.tistory.com"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://godwebstory.tistory.com"/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshinStude&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-    </p>
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true">
   </P>
+   ### 🧳저의 블로그에 놀러오세요
+  <P> 
+<a href="https://godwebstory.tistory.com"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://godwebstory.tistory.com"/>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshinStude&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</P>
+<P>
+     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true">
+</P>
 <!--
 **shinStude/shinStude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
