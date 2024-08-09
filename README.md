@@ -8,12 +8,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring">
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
-
 <img src="https://img.shields.io/badge/Intellij-000000?logo=Intellij">
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle">
+<img src="https://img.shields.io/badge/Elasticsearch-005571?logo=Elasticsearch">
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" /></div>
   </P>
 
