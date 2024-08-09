@@ -2,7 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20웹개발자%20신재민입니다.)
 
 ### 🌟 업무에 사용 중이거나, 사용했던 기술입니다.
-<P>
+<P>https://github.com/shinStude/shinStude/blob/main/README.md
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Pyton">  
+<img src="https://img.shields.io/badge/C++-00599C?logo=C++">
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
