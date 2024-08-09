@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5">
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
+<img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
