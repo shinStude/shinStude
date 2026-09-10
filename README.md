@@ -2,7 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=안녕하세요%20웹개발자%20신재민입니다.)
 
 ### 🌟 업무에 사용 중이거나, 사용했던 기술입니다.
-
+</br>
+**요즘에는 AI에 관심이 많습니다. **
+</br>
+**👇👇저의 링크나무는 아래 주소입니다.👇👇**
+</br>
+**https://linknamu-flame.vercel.app/**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B">
